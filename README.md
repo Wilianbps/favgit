@@ -40,7 +40,7 @@ O favgit é um projeto que busca informações da api do github, mostra um dashb
 - Card com informações de quantidade de repositórios
 - Filtro de busca da lista de repositórios
 - Possível savar repositório como favorito
-- funcionalidade de visualizar em um modal os repositórios salvos - obs: salvo no localStorage
+- funcionalidade de visualizar em um modal os repositórios salvos - botão Meus Favoritos- obs: salvo no localStorage
 - Botão de sair do sistema
 
 ## ⚙ Configuração
